@@ -8,7 +8,7 @@
  */
 
 :root {
-  --primary: #6C55F9;
+  --primary: #e3f955;
   --accent: #FF3D85;
   --secondary: #645F88;
   --success: #35bb78;
@@ -29,13 +29,13 @@ body {
 }
 
 a {
-  color: #6C55F9;
+  color: #151615e8;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #5641df;
+  color: #313133;
   text-decoration: underline;
 }
 
@@ -142,11 +142,11 @@ a.bg-dark:hover, a.bg-dark:focus {
 }
 
 .text-primary {
-  color: #6C55F9 !important;
+  color: #f7b113 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #5d47eb !important;
+  color: #cdeb47 !important;
 }
 
 .text-accent {
@@ -1116,7 +1116,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-  color: #645F88;
+  color: #f0f340;
 }
 
 .navbar-light .navbar-nav .show > .nav-link,
@@ -1124,7 +1124,7 @@ a.text-dark:hover, a.text-dark:focus {
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
   font-weight: 500;
-  color: #6C55F9;
+  color: #e1e131;
 }
 
 
