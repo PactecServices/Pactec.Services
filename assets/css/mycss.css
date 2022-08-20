@@ -1,0 +1,23 @@
+.focus{
+    color: #f7b113 !important;
+}
+
+.letters:hover{
+    color: #f7b113 !important;
+}
+
+.Icon{
+    max-width: 50%;
+    margin: 0;
+}
+
+.IconShow{
+    max-width: 20%;
+    margin-bottom: 0.5em;
+}
+
+.keep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
